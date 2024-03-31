@@ -5,6 +5,7 @@ import "@styles/globals.css";
 export const metadata = {
   title: "Prompt Share",
   description: "Discover & Share AI Prompts",
+  icons: { icon: "/assets/images/logo.svg" },
 };
 
 const RootLayout = ({ children }) => {
